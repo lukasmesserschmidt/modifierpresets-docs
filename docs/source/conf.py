@@ -7,7 +7,7 @@ copyright = "2025, Lukas Messerschmidt"
 author = "Lukas Messerschmidt"
 
 release = "0.1"
-version = "0.1.0"
+version = "1.0.0"
 
 # -- General configuration
 
@@ -17,6 +17,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
+    "sphinx.ext.autosectionlabel",
 ]
 
 intersphinx_mapping = {
