@@ -15,7 +15,7 @@ Contents
     introduction
     installation
     update
-    main_panel
+    main_menu
     preferences
 
 .. toctree::

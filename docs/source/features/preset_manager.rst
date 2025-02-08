@@ -2,25 +2,21 @@
 Preset Manager
 **************
 
-.. _features_preset_manager:
-
 The Preset Manager allows you to manage and organize all your saved modifier presets.
 
-Preset List
-===========
+**Preset List**
+  The Preset Manager displays a list of all saved modifier presets.  
+  For each preset, the following options are available:
 
-The Preset Manager displays a list of all saved modifier presets.  
-For each preset, the following options are available:
+  - **Show in Pie Menu**: A checkbox that allows you to display the preset in the Pie Menu.  
+    You can check this option for a maximum of 8 presets.  
+    When enabled, the preset will appear in the Pie Menu for quick access.
+    
+  - **Edit**: Clicking this will open a panel where you can change the preset's icon and name.
 
-- **Show in Pie Menu**: A checkbox that allows you to display the preset in the Pie Menu.  
-  You can check this option for a maximum of 8 presets.  
-  When enabled, the preset will appear in the Pie Menu for quick access.
-  
-- **Edit**: Clicking this will open a panel where you can change the preset's icon and name.
+  - **Delete**: Removes the preset from the list.
+  .. warning::
+      Deleting a preset cannot be undone.
 
-- **Delete**: Removes the preset from the list. This action is permanent.
-
-Search
-======
-
-A search function is available at the top of the Preset Manager to help you quickly find a specific preset by name.
+**Search**
+  A search function is available at the top of the Preset Manager to help you quickly find a specific preset by name.

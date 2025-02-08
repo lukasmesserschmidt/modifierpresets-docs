@@ -42,4 +42,4 @@ Report a Bug
    Report a bug to the developer. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer fix the issue.
 
 Feature Request
-   Request a feature to be added to BlendAI. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer understand your request.
+   Request a feature to be added to Modifier Presets. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer understand your request.
