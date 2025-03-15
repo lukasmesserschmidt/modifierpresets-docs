@@ -2,9 +2,6 @@
 Update
 ******
 
-Blender 4.2 and higher
-======================
-
 If you want to update all installed extensions including Modifier Presets:
 
 #. Go to Edit > Preferences > Get Extensions.
