@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "Modifier Presets"
+project = "Mod Stack"
 copyright = "2025, Lukas Messerschmidt"
 author = "Lukas Messerschmidt"
 
@@ -34,7 +34,7 @@ html_theme = "furo"
 
 html_logo = ""
 
-html_title = f"Modifier Presets {version} Documentation"
+html_title = f"Mod Stack {version} Documentation"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
