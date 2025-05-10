@@ -1,8 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Mod Stack Documentation
+ModStack Documentation
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Welcome to the Mod Stack documentation! Here you will find everything you need to know about Mod Stack and how to use it in Blender.
+Welcome to the ModStack documentation! Here you will find everything you need to know about ModStack and how to use it in Blender.
 
 ========
 Contents

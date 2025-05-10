@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "Mod Stack"
+project = "ModStack"
 copyright = "2025, Lukas Messerschmidt"
 author = "Lukas Messerschmidt"
 
@@ -34,7 +34,7 @@ html_theme = "furo"
 
 html_logo = ""
 
-html_title = f"Mod Stack {version} Documentation"
+html_title = f"ModStack {version} Documentation"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"

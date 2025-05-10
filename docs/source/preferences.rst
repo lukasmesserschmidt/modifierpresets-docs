@@ -32,7 +32,7 @@ About
 Links
    - **Send an Email**: Send an email to the developer.
    - **Join Discord**: Join the Rubens Addons Discord server.
-   - **Find Tutorials**: Find tutorials on Mod Stack and more.
+   - **Find Tutorials**: Find tutorials on ModStack and more.
    - **Expand Toolset**: Find more addons made by the developer.
 
 Support
@@ -42,4 +42,4 @@ Report a Bug
    Report a bug to the developer. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer fix the issue.
 
 Feature Request
-   Request a feature to be added to Mod Stack. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer understand your request.
+   Request a feature to be added to ModStack. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer understand your request.
