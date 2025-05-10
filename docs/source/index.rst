@@ -2,6 +2,11 @@
 ModStack Documentation
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+.. image:: images/modstack_thumbnail.jpg
+   :width: 600
+   :alt: ModStack Thumbnail
+
 Welcome to the ModStack documentation! Here you will find everything you need to know about ModStack and how to use it in Blender.
 
 ========
