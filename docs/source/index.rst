@@ -36,5 +36,6 @@ Contents
     :caption: More
     :maxdepth: 1
 
+    imported_objects
     changelog
     contact
