@@ -12,8 +12,8 @@ Changelog
 Bug Fixes
 *********
 
-**(Windows ARM64, macOS x64) Compatibility**
-    Fixed an issue where the application failed to start on Windows ARM64 and macOS x64 systems. Both platforms are now supported.
+**(Windows ARM64, macOS x64) Add-on Loading**
+    Fixed an issue where the add-on failed to load on Windows ARM64 and macOS x64. Both platforms are now supported.
 
 #####
 1.0.0
